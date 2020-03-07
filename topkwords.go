@@ -4,7 +4,7 @@ import "fmt"
 import "strings"
 import "sort"
 
-//time: n * 
+//time: n * n
 
 func main() {
 
